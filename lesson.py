@@ -8,3 +8,7 @@ for i in range(5):
 print("This is a test.")
 for j in range(3):
     print(j)
+while a < 5:
+    print(a)
+    a += 1
+print("This is a test.")
